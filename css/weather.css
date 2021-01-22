@@ -22,3 +22,8 @@
 .weather-icon{
     padding-top: 10px;
 }
+
+#weather-content{
+    width: 25%;
+    margin-left: 485px;
+}
